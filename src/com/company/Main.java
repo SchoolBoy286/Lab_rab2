@@ -9,6 +9,7 @@ public class Main {
         System.out.println("master");
         System.out.println("branch2");
         System.out.println("master&branch2");
+        System.out.println("branch3");
     }
 
 }
