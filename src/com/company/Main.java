@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Third commit1");
         System.out.println("master");
+        System.out.println("branch2");
+        System.out.println("master&branch2");
     }
 
 }
